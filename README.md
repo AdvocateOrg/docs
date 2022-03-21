@@ -6,6 +6,12 @@ Use this area to play with the editor and get to grips with some of the content 
 
 
 
+
+
+Hi Oliver !!!!!!!!!!!!!!!!!
+
+
+
 ## Moving on
 
 All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
