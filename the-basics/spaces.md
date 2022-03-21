@@ -6,6 +6,10 @@ Almost everything in GitBook revolves around a **space**. What you're looking at
 
 Folks use spaces for all kinds of things. You might want to create API documentation, a design system, a place to document calls and meetings. Whatever it might be, chances are, you'll be using spaces a bunch in GitBook.
 
+
+
+{% embed url="https://www.youtube.com/watch?v=hTvJoYnpeRQ" %}
+
 ## Publishing and sharing
 
 Spaces can be published to the whole world, or just some of it, or just to a few very specific people. You can also invite folks to collaborate with you on a space if you're on a community, team, or business plan.
